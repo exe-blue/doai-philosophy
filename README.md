@@ -2,7 +2,7 @@
   <img src="assets/doai-logo.svg" alt="DoAi.Me Logo" width="120"/>
 </p>
 
-<h1 align="center">doai-philosophy</h1>
+<h1 align="center">DoAi-Philosophy</h1>
 
 <p align="center">
   <strong>DoAi.Me의 철학적 가치 저장소</strong><br/>
